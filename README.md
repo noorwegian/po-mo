@@ -13,10 +13,9 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/hernandezgonzalo"><img src="https://avatars1.githubusercontent.com/u/54455748?s=400&v=4" width="100px;" alt="Gonzalo avatar"/><br/><sub><b>Gonzalo Hernández</b></sub></a><br/><a href="https://github.com/hernandezgonzalo"></a>
-</tr>
-<tr>
+</td>
 <td align="center"><a href="https://github.com/joseanher81"><img src="https://avatars3.githubusercontent.com/u/23436377?s=400&v=4" width="100px;" alt="Jose avatar"/><br/><sub><b>Jose Ángel Hernández</b></sub></a><br/><a href="https://github.com/joseanher81"></a>
+</td>
 </tr>
 </table>
-
 
